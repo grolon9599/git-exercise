@@ -1,2 +1,3 @@
 # git-exercise
-hello world :D
+hello world :D 
+it is a lovely monday
